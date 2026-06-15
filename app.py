@@ -109,7 +109,7 @@ with st.sidebar:
     page = pages[selection]
 
     st.markdown("---")
-    st.markdown("<small>Innomatics Research Labs<br>ML Unique Project</small>", unsafe_allow_html=True)
+    st.markdown("<small>Surisetti Vamsi Krishna<br>Data Science & ML Portfolio</small>", unsafe_allow_html=True)
 
 
 # ════════════════════════════════════════════════════════════
